@@ -1,0 +1,15 @@
+1. An activity represents a single screen with a user interface just like window or frame of Java.
+
+
+2. Activities, Services, Content providers, and Broadcast receivers.
+
+
+3. onPause() is called at the end of the active lifetime
+
+
+4.  onCreate() , onStart() , onResume() , onPause() , onStop() , and onDestroy().
+
+
+5. A service is a component that runs in the background to perform long-running operations without needing to interact with the user and it works even if application is destroyed.
+
+
