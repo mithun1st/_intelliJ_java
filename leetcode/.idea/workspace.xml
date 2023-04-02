@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21147620-45c8-4516-b41e-d9302a2438ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/out/production/p1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/p1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/EnosisSolutions/p1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/out/production/problem1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/problem1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/out/production/problem2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/problem2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/out/production/problem3/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/out/production/problem3/com/company/Persone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/problem3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit1/problem3/src/com/company/Persone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/out/production/problem1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/problem1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/out/production/problem2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/problem2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/problem3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem3/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/out/production/problem4/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/problem4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem4/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/out/production/problem5/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/problem5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem5/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/bjit2/problem6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/hw.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/out/production/hw/com/company/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/out/production/hw/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/out/production/hw/com2/add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/out/production/hw/com3/sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/src/com/company/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/src/com2/add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1test/hw/src/com3/sub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/p26/RemoveDuplicatesFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/p26/RemoveDuplicatesFromSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p26/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p26/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NbQ9wQ39nSrKRGYAtMUleKSoMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="BaseballGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p682.BaseballGame" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p682.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p704.BinarySearch" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p704.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p1.Hello" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p541.ReverseStringII" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p541.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleElementinaSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p540.SingleElementinaSortedArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p540.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.ReverseStringII" />
+        <item itemvalue="Application.SingleElementinaSortedArray" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.BaseballGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21147620-45c8-4516-b41e-d9302a2438ba" name="Changes" comment="" />
+      <created>1679930154717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679930154717</updated>
+    </task>
+    <servers />
+  </component>
+</project>

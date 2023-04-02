@@ -5,26 +5,25 @@ import java.util.Set;
 
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
-        // Length of the updated array
-        int count = 0;
-        // Loop for all the elements in the array
-        for (int i = 0; i < nums.length; i++) {
-            // If the current element is equal to the next element, we skip
-            if (i < nums.length - 1 && nums[i] == nums[i + 1]) {
-                continue;
+        int k=0;
+        for(int i = 0; i< nums.length; i++){
+            if(nums[k]!= nums[i]){
+                k++;
+                nums[k]= nums[i];
             }
-            // We will update the array in place
-            nums[count] = nums[i];
-            count++;
         }
-        for(int i : nums){
-            System.out.print(i+"\t");
-        }
-        System.out.println();
-        return count;
-    }
+        k++;
 
+        System.out.println(k);
+        for(int i: nums){
+            System.out.print(i+" ");
+        }
+
+        return k;
+    }
+//    Input: nums = [0,0,1,1,1,2,2,3,3,4]
+//    Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
     public static void main(String[] args) {
-        System.out.println(new RemoveDuplicatesFromSortedArray().removeDuplicates(new int[]{1,1,2}));
+        System.out.println(new RemoveDuplicatesFromSortedArray().removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
     }
 }
